@@ -30,6 +30,6 @@ When you hit non-parallel execution in the first session and immediately execute
 
 Now hit the parallel execution button in the first session followed be execution in second session you see that the second session execution will be executed immediately. Problem solved
 
-![Image of example](https://github.com/AlexanderBartholomaeus/shiny_async_example/shiny_async_example.png)
+![Image of example](https://github.com/AlexanderBartholomaeus/shiny_async_example/blob/master/shiny_async_example.png)
 
 
