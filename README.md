@@ -1,4 +1,4 @@
-# Shiny async example 
+# Shiny async/parallel example 
 Shiny App example of asyn / parallel execution to prevent blocking different sessions
 
 ## Intro
