@@ -31,7 +31,7 @@ ui <- fluidPage(
   # Sidebar with a slider input for number of bins 
   sidebarLayout(
     sidebarPanel(
-      sliderInput('nLoops','Select number of dummy calculations',min = 10000, max = 200000, step = 10000, value = 20000),
+      sliderInput('nLoops','Select number of dummy calculations',min = 10000, max = 1000000, step = 100000, value = 20000),
       actionButton('noParallel','Non-parallel execution'),
       tags$br(),tags$br(),
       actionButton('parallel','Parallel execution')
